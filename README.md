@@ -1,2 +1,3 @@
 # GlibGlab
-Langue
+
+A very cool language 
